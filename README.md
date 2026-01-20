@@ -50,9 +50,4 @@ It allows librarians to manage library records, track members, and handle borrow
 - **Platform:** Windows Desktop Application  
 - **Other Tools:** Microsoft Office (for documentation and records)  
 
----
 
-## Installation / Usage
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/sakulavishmini/library-management-system.git
