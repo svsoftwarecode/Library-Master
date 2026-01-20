@@ -27,6 +27,15 @@ It allows librarians to manage library records, track members, and handle borrow
 
 ---
 
+## Technologies Used
+- **Programming Language:** C#  
+- **Database:** SQL Server / MySQL  
+- **IDE:** Visual Studio  
+- **Platform:** Windows Desktop Application  
+- **Other Tools:** Microsoft Office (for documentation and records)  
+
+---
+
 ## Screenshots
 
 ### Dashboard
@@ -40,14 +49,5 @@ It allows librarians to manage library records, track members, and handle borrow
 
 ### Payments
 ![Payments](payment.png)
-
----
-
-## Technologies Used
-- **Programming Language:** C#  
-- **Database:** SQL Server / MySQL  
-- **IDE:** Visual Studio  
-- **Platform:** Windows Desktop Application  
-- **Other Tools:** Microsoft Office (for documentation and records)  
 
 
